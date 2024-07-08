@@ -1,4 +1,4 @@
-# Web for booking table tennis tables
+# Table Bookings for Finisterre TM
 
 ## Project Overview
 The idea of this proyect is to create a web for booking tables for a table tennis team.
