@@ -1,8 +1,4 @@
-Hola!
-Este repositorio sirve para almacenar los proyectos y prácticas de Pedro, Dani y Jose en su odisea se volverse maestros de la programación
+Hello! 
 
-Hello!
-This repository stores the projects and practice of Pedro, Dani and Jose in their journey to master coding
-
-
+We are a group of students trying to learn/master coding and developing, so we will store the progress of our current project here
 # Web for booking table tennis tables
