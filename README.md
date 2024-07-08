@@ -1,4 +1,8 @@
-
-Hello!
-We are a group of students trying to learn/master coding and developing, so we will store the progress of our current project here
 # Web for booking table tennis tables
+
+## Project Overview
+The idea of this proyect is to create a web for booking tables for a table tennis team.
+
+## Features
+- The user can book a table after providing the name of the reservation
+- There can be 7 booked tables at a given hour and day
